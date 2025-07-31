@@ -1,0 +1,1380 @@
+[
+    {
+        "node": "urn:building:a741:yoker:4:unv:1/node-9",
+        "coordinates": {
+            "x": 12296,
+            "y": 16075,
+            "z": 8830.5
+        },
+        "measurements": [
+            {
+                "frequency": 11.8885,
+                "displacement": {
+                    "x": -0.000128023,
+                    "y": 0.0000337961,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.85088,
+                "displacement": {
+                    "x": -0.000135739,
+                    "y": 0.000460559,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.92546,
+                "displacement": {
+                    "x": 0.000383819,
+                    "y": 0.000186056,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.13113,
+                "displacement": {
+                    "x": -0.0000394219,
+                    "y": 0.000241701,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.63392,
+                "displacement": {
+                    "x": -0.0000486824,
+                    "y": -0.000444669,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 6.73186,
+                "displacement": {
+                    "x": -0.00037016,
+                    "y": -0.0000928724,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 8.74264,
+                "displacement": {
+                    "x": -0.0000614193,
+                    "y": -0.000913666,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 9.68108,
+                "displacement": {
+                    "x": -0.0000722261,
+                    "y": -0.0000514271,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            }
+        ]
+    },
+    {
+        "node": "urn:building:a741:yoker:4:unv:1/node-1",
+        "coordinates": {
+            "x": 9124,
+            "y": 13576,
+            "z": 17721
+        },
+        "measurements": [
+            {
+                "frequency": 11.8885,
+                "displacement": {
+                    "x": 0.000863483,
+                    "y": 0.0000918718,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.85088,
+                "displacement": {
+                    "x": -0.0000905665,
+                    "y": 0.000737509,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.92546,
+                "displacement": {
+                    "x": 0.000809576,
+                    "y": 0.000373852,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.13113,
+                "displacement": {
+                    "x": -0.000298799,
+                    "y": 0.000718869,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.63392,
+                "displacement": {
+                    "x": -0.000196116,
+                    "y": -0.000738774,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 6.73186,
+                "displacement": {
+                    "x": -0.000351432,
+                    "y": 0.0000326958,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 8.74264,
+                "displacement": {
+                    "x": 0.0000427299,
+                    "y": 0.000401116,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 9.68108,
+                "displacement": {
+                    "x": 0.0000584141,
+                    "y": 0.0000398708,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            }
+        ]
+    },
+    {
+        "node": "urn:building:a741:yoker:4:unv:1/node-10",
+        "coordinates": {
+            "x": 4529,
+            "y": 12295,
+            "z": 5867
+        },
+        "measurements": [
+            {
+                "frequency": 11.8885,
+                "displacement": {
+                    "x": 0.0000103515,
+                    "y": -0.0000436384,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.85088,
+                "displacement": {
+                    "x": -0.0000230172,
+                    "y": 0.000149743,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.92546,
+                "displacement": {
+                    "x": 0.000245271,
+                    "y": 0.000124414,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.13113,
+                "displacement": {
+                    "x": -0.000109292,
+                    "y": 0.000395137,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.63392,
+                "displacement": {
+                    "x": -0.0000657435,
+                    "y": -0.00016478,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 6.73186,
+                "displacement": {
+                    "x": -0.000201021,
+                    "y": -0.0000539542,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 8.74264,
+                "displacement": {
+                    "x": -0.0000309088,
+                    "y": -0.000790847,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 9.68108,
+                "displacement": {
+                    "x": -0.0000545079,
+                    "y": -0.0000396993,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            }
+        ]
+    },
+    {
+        "node": "urn:building:a741:yoker:4:unv:1/node-11",
+        "coordinates": {
+            "x": 12296,
+            "y": 16075,
+            "z": 5867
+        },
+        "measurements": [
+            {
+                "frequency": 11.8885,
+                "displacement": {
+                    "x": -0.000170942,
+                    "y": 0.0000117248,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.85088,
+                "displacement": {
+                    "x": -0.000103514,
+                    "y": 0.000270219,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.92546,
+                "displacement": {
+                    "x": 0.000241135,
+                    "y": 0.000122959,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.13113,
+                "displacement": {
+                    "x": -0.0000269074,
+                    "y": 0.000151881,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.63392,
+                "displacement": {
+                    "x": -0.0000224774,
+                    "y": -0.000282254,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 6.73186,
+                "displacement": {
+                    "x": -0.000250942,
+                    "y": -0.0000296994,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 8.74264,
+                "displacement": {
+                    "x": -0.000026294,
+                    "y": -0.000809462,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 9.68108,
+                "displacement": {
+                    "x": -0.0000606188,
+                    "y": -0.0000615045,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            }
+        ]
+    },
+    {
+        "node": "urn:building:a741:yoker:4:unv:1/node-12",
+        "coordinates": {
+            "x": 4529,
+            "y": 12295,
+            "z": 2903.5
+        },
+        "measurements": [
+            {
+                "frequency": 11.8885,
+                "displacement": {
+                    "x": -0.0000482011,
+                    "y": -0.00002238,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.85088,
+                "displacement": {
+                    "x": -0.00000385998,
+                    "y": 0.0000770031,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.92546,
+                "displacement": {
+                    "x": 0.000118055,
+                    "y": 0.0000537963,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.13113,
+                "displacement": {
+                    "x": -0.0000505926,
+                    "y": 0.000202446,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.63392,
+                "displacement": {
+                    "x": -0.0000301411,
+                    "y": -0.0000863658,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 6.73186,
+                "displacement": {
+                    "x": -0.000137999,
+                    "y": -0.0000493225,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 8.74264,
+                "displacement": {
+                    "x": -0.0000308121,
+                    "y": -0.000504436,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 9.68108,
+                "displacement": {
+                    "x": -0.0000309521,
+                    "y": -0.0000315873,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            }
+        ]
+    },
+    {
+        "node": "urn:building:a741:yoker:4:unv:1/node-13",
+        "coordinates": {
+            "x": 12296,
+            "y": 16075,
+            "z": 2903.5
+        },
+        "measurements": [
+            {
+                "frequency": 11.8885,
+                "displacement": {
+                    "x": -0.000123488,
+                    "y": 0.00000132321,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.85088,
+                "displacement": {
+                    "x": -0.0000334191,
+                    "y": 0.000123432,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.92546,
+                "displacement": {
+                    "x": 0.000122235,
+                    "y": 0.000054684,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.13113,
+                "displacement": {
+                    "x": -0.0000144274,
+                    "y": 0.0000826768,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.63392,
+                "displacement": {
+                    "x": -0.0000116359,
+                    "y": -0.000130017,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 6.73186,
+                "displacement": {
+                    "x": -0.00014368,
+                    "y": -0.0000354777,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 8.74264,
+                "displacement": {
+                    "x": -0.0000263005,
+                    "y": -0.000464512,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 9.68108,
+                "displacement": {
+                    "x": -0.0000241295,
+                    "y": -0.0000378368,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            }
+        ]
+    },
+    {
+        "node": "urn:building:a741:yoker:4:unv:1/node-2",
+        "coordinates": {
+            "x": 4529,
+            "y": 12295,
+            "z": 17721
+        },
+        "measurements": [
+            {
+                "frequency": 11.8885,
+                "displacement": {
+                    "x": 0.000864992,
+                    "y": 0.000110032,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.85088,
+                "displacement": {
+                    "x": -0.0000696079,
+                    "y": 0.000391067,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.92546,
+                "displacement": {
+                    "x": 0.0008056,
+                    "y": 0.000346021,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.13113,
+                "displacement": {
+                    "x": -0.000397807,
+                    "y": 0.00112336,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.63392,
+                "displacement": {
+                    "x": -0.00023107,
+                    "y": -0.000427267,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 6.73186,
+                "displacement": {
+                    "x": -0.000321211,
+                    "y": -0.0000644191,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 8.74264,
+                "displacement": {
+                    "x": 0.0000240767,
+                    "y": 0.00036871,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 9.68108,
+                "displacement": {
+                    "x": 0.0000450342,
+                    "y": 0.0000125113,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            }
+        ]
+    },
+    {
+        "node": "urn:building:a741:yoker:4:unv:1/node-3",
+        "coordinates": {
+            "x": 12296,
+            "y": 16075,
+            "z": 17721
+        },
+        "measurements": [
+            {
+                "frequency": 11.8885,
+                "displacement": {
+                    "x": 0.000688848,
+                    "y": 0.000247973,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.85088,
+                "displacement": {
+                    "x": -0.00035204,
+                    "y": 0.000967867,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.92546,
+                "displacement": {
+                    "x": 0.000749195,
+                    "y": 0.00041651,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.13113,
+                "displacement": {
+                    "x": -0.00010578,
+                    "y": 0.000442261,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.63392,
+                "displacement": {
+                    "x": -0.0000358342,
+                    "y": -0.000837342,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 6.73186,
+                "displacement": {
+                    "x": -0.000447963,
+                    "y": -0.0000862584,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 8.74264,
+                "displacement": {
+                    "x": -0.0000787749,
+                    "y": 0.000544342,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 9.68108,
+                "displacement": {
+                    "x": 0.0000363981,
+                    "y": 0.000054678,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            }
+        ]
+    },
+    {
+        "node": "urn:building:a741:yoker:4:unv:1/node-4",
+        "coordinates": {
+            "x": 4529,
+            "y": 12295,
+            "z": 14757.5
+        },
+        "measurements": [
+            {
+                "frequency": 11.8885,
+                "displacement": {
+                    "x": 0.000606952,
+                    "y": -0.0000415131,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.85088,
+                "displacement": {
+                    "x": -0.0000595417,
+                    "y": 0.00033612,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.92546,
+                "displacement": {
+                    "x": 0.000678477,
+                    "y": 0.000283788,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.13113,
+                "displacement": {
+                    "x": -0.000317248,
+                    "y": 0.000974582,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.63392,
+                "displacement": {
+                    "x": -0.000201605,
+                    "y": -0.00036645,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 6.73186,
+                "displacement": {
+                    "x": -0.00039359,
+                    "y": -0.0000282934,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 8.74264,
+                "displacement": {
+                    "x": -0.00000833816,
+                    "y": -0.000242143,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 9.68108,
+                "displacement": {
+                    "x": -0.0000286016,
+                    "y": -0.00000969257,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            }
+        ]
+    },
+    {
+        "node": "urn:building:a741:yoker:4:unv:1/node-5",
+        "coordinates": {
+            "x": 12296,
+            "y": 16075,
+            "z": 14757.5
+        },
+        "measurements": [
+            {
+                "frequency": 11.8885,
+                "displacement": {
+                    "x": 0.000381682,
+                    "y": 0.000175094,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.85088,
+                "displacement": {
+                    "x": -0.000241871,
+                    "y": 0.000811117,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.92546,
+                "displacement": {
+                    "x": 0.00066137,
+                    "y": 0.000348602,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.13113,
+                "displacement": {
+                    "x": -0.0000684125,
+                    "y": 0.000388696,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.63392,
+                "displacement": {
+                    "x": -0.00006439,
+                    "y": -0.000726937,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 6.73186,
+                "displacement": {
+                    "x": -0.000476424,
+                    "y": -0.0000810014,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 8.74264,
+                "displacement": {
+                    "x": -0.0000512073,
+                    "y": -0.000188038,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 9.68108,
+                "displacement": {
+                    "x": -0.0000269111,
+                    "y": -0.00000233091,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            }
+        ]
+    },
+    {
+        "node": "urn:building:a741:yoker:4:unv:1/node-6",
+        "coordinates": {
+            "x": 4529,
+            "y": 12295,
+            "z": 11794
+        },
+        "measurements": [
+            {
+                "frequency": 11.8885,
+                "displacement": {
+                    "x": 0.000361998,
+                    "y": -0.0000461592,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.85088,
+                "displacement": {
+                    "x": -0.0000373637,
+                    "y": 0.000272865,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.92546,
+                "displacement": {
+                    "x": 0.0005402,
+                    "y": 0.000236627,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.13113,
+                "displacement": {
+                    "x": -0.000246954,
+                    "y": 0.000788867,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.63392,
+                "displacement": {
+                    "x": -0.000162892,
+                    "y": -0.000305681,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 6.73186,
+                "displacement": {
+                    "x": -0.0003644,
+                    "y": -0.0000314043,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 8.74264,
+                "displacement": {
+                    "x": -0.0000413715,
+                    "y": -0.000723625,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 9.68108,
+                "displacement": {
+                    "x": -0.0000741579,
+                    "y": -0.0000319276,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            }
+        ]
+    },
+    {
+        "node": "urn:building:a741:yoker:4:unv:1/node-7",
+        "coordinates": {
+            "x": 12296,
+            "y": 16075,
+            "z": 11794
+        },
+        "measurements": [
+            {
+                "frequency": 11.8885,
+                "displacement": {
+                    "x": 0.000088414,
+                    "y": 0.0000918114,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.85088,
+                "displacement": {
+                    "x": -0.000213161,
+                    "y": 0.00063704,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.92546,
+                "displacement": {
+                    "x": 0.000511898,
+                    "y": 0.000279644,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.13113,
+                "displacement": {
+                    "x": -0.0000636957,
+                    "y": 0.000305596,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.63392,
+                "displacement": {
+                    "x": -0.0000420584,
+                    "y": -0.000596666,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 6.73186,
+                "displacement": {
+                    "x": -0.000434084,
+                    "y": -0.0000816369,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 8.74264,
+                "displacement": {
+                    "x": -0.0000411348,
+                    "y": -0.000695027,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 9.68108,
+                "displacement": {
+                    "x": -0.0000658578,
+                    "y": -0.0000413463,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            }
+        ]
+    },
+    {
+        "node": "urn:building:a741:yoker:4:unv:1/node-8",
+        "coordinates": {
+            "x": 4529,
+            "y": 12295,
+            "z": 8830.5
+        },
+        "measurements": [
+            {
+                "frequency": 11.8885,
+                "displacement": {
+                    "x": 0.000122816,
+                    "y": -0.0000612089,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.85088,
+                "displacement": {
+                    "x": -0.0000322383,
+                    "y": 0.000209253,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 2.92546,
+                "displacement": {
+                    "x": 0.000388553,
+                    "y": 0.00017161,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.13113,
+                "displacement": {
+                    "x": -0.000186273,
+                    "y": 0.000592771,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 3.63392,
+                "displacement": {
+                    "x": -0.00011098,
+                    "y": -0.000236314,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 6.73186,
+                "displacement": {
+                    "x": -0.000306571,
+                    "y": -0.0000376599,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 8.74264,
+                "displacement": {
+                    "x": -0.0000384089,
+                    "y": -0.000921293,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            },
+            {
+                "frequency": 9.68108,
+                "displacement": {
+                    "x": -0.0000797478,
+                    "y": -0.0000431076,
+                    "z": 0
+                },
+                "damping": {
+                    "hysteretic": 0,
+                    "viscous": 0
+                }
+            }
+        ]
+    }
+]
